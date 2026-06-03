@@ -1,3 +1,6 @@
+https://www.davidenzel.com/rss/
+https://philip.greenspun.com/blog/feed/
+https://kevquirk.com/feed/
 http://0x80.pl/feed.xml
 http://16bit.com/rss.xml
 http://200sc.dev/index.xml
